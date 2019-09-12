@@ -5,7 +5,7 @@
 
 body {
 	background-image: url("minecraftpaper-03-091815-728_thumb.jpg") ;
-
+	background-repeat: repeat-x;
 }
 
 h1 {
